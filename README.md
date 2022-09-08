@@ -2,6 +2,8 @@
 
 This is a sample application built. This is a simple application of adding two numbers, the main focus of this application is to be integrated with espresso automated testing dealing with all the edge cases. The components of this application include two fields to enter the integer values, a button to execute the addition, and a display box to show the result.
 
+### Video URL of Application & Testing  : https://youtu.be/APj_wHuxy9g
+
 ## Application Overview
 
 ![image](https://user-images.githubusercontent.com/53993341/189125231-be499da7-48f9-42c6-9221-269ff85a5808.png)
