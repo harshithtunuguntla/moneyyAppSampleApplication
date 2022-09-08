@@ -9,3 +9,8 @@ This is a sample application built. This is a simple application of adding two n
 # Test Results
 
 ![image](https://user-images.githubusercontent.com/53993341/189125140-68100272-d25e-4e8d-b2e9-0efd3a207efa.png)
+
+# Functional Testing
+Following are the test cases where functional testing of the application were made. 
+![moneyyApp](https://user-images.githubusercontent.com/53993341/189127528-19471b69-037f-4db0-8ef8-7e6466b9e051.png)
+
