@@ -33,14 +33,14 @@ public class MainActivity extends AppCompatActivity {
 
                 //convert value into int
 
-                int x = 0;
-                int y = 0;
+                float x = 0;
+                float y = 0;
 
                 try{
-                    x=Integer.parseInt(t1.getText().toString());
-                    y=Integer.parseInt(t2.getText().toString());
+                    x=Float.parseFloat(t1.getText().toString());
+                    y=Float.parseFloat(t2.getText().toString());
                     //sum these two numbers
-                    int z=x+y;
+                    float z=x+y;
                     //display this text to TextView
                     TextView tv_data=(TextView)findViewById(R.id.textView);
                     tv_data.setText("The sum is "+z);
